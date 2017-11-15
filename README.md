@@ -1,4 +1,4 @@
-Quick setup for SPFx 
+Quick setup guides for SPFx 
 
 1. Create a dev tenant 
 
