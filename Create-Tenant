@@ -1,19 +1,17 @@
 Sign up for an Office 365 tenant
-https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant
+E3 trial, Developer program, or Full blown demo 
 
 Create app catalog site 
-https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site 
-SharePoint Admin Center > Apps > Create > App Catalog > Title: Apps 
+SharePoint Admin Center > Apps > Create > App Catalog > Title: Apps > /sites/apps 
 
 Create a new Developer Site collection
-https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant#create-a-new-developer-site-collection
-Developer Site. 
-Template Developer Site 
-Title Dev 
+SharePoint Admin Center > Sites > New > Developer > /sites/dev 
 
 Access the SharePoint Workbench 
-https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant#sharepoint-workbench
-_layouts/workbench.aspx
+../sites/dev/_layouts/workbench.aspx
 
-Now that you have configured your SharePoint tenant, set up your development environment to build client-side web parts.
-https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment 
+References
+https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant 
+https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site 
+https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant#create-a-new-developer-site-collection
+https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant#sharepoint-workbench
